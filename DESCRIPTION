@@ -1,0 +1,11 @@
+Package: arco
+Version: 0.1
+Date: 2015-06-15
+Title: Pick a Color From a Tcl/tk chooseColor Widget
+Authors@R: c(person("Thomas J.", "Leeper", 
+                    role = c("aut", "cre"), 
+                    email = "thosjleeper@gmail.com"))
+Description: Interactively select colors using the Tcl/tk 'chooseColors' widget.
+License: MIT + file LICENSE
+URL: https://github.com/leeper/arco
+BugReports: https://github.com/leeper/arco/issues
