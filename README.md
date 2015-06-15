@@ -1,4 +1,4 @@
-# `arco::iris`, the Tcl/tk chooseColors Widget #
+# The Tcl/tk chooseColors Widget #
 
 This package provides one function, `arco::iris()`, which can be used to dynamically select colors from the Tcl/tk `chooseColors` widget.
 
