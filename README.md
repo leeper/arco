@@ -36,3 +36,7 @@ arco::iris(3)
 ### Mac Version ###
 
 [![arco](https://www.evernote.com/shard/s1/sh/1cd42999-f081-41f6-98c5-e33110b54346/1af2a6bd5aa20d3b/res/b6f7cbaa-136a-4703-9cc6-4e0bd3676258/skitch.png)](https://www.evernote.com/shard/s1/sh/1cd42999-f081-41f6-98c5-e33110b54346/1af2a6bd5aa20d3b/res/b6f7cbaa-136a-4703-9cc6-4e0bd3676258/skitch.png)
+
+### Linux Version ###
+
+[![arco](http://i.imgur.com/Ej6CCvw.png)](http://i.imgur.com/Ej6CCvw.png)
