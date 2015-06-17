@@ -15,6 +15,7 @@ install_github("leeper/arco")
 ```
 
 [![Build Status](https://travis-ci.org/leeper/arco.png?branch=master)](https://travis-ci.org/leeper/arco)
+[![CRAN Version](http://www.r-pkg.org/badges/version/arco)](http://cran.r-project.org/package=arco)
 ![Downloads](http://cranlogs.r-pkg.org/badges/arco)
 
 ## Examples ##
